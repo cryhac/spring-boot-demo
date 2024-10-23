@@ -12,12 +12,6 @@
 		<version>2.1.0.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-
-	<properties>
-		<sonar.host.url>http://sonarqube.cd.dev.tgs.com</sonar.host.url>
-		<sonar.login>0f2fee85b980ecaa61eed4d37eade9eafbd0db9e</sonar.login>
-	</properties>
-
 	<dependencies>
 		<!-- Compile -->
 		<dependency>
