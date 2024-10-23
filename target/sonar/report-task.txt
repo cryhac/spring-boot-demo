@@ -1,0 +1,6 @@
+projectKey=spring-boot-swagger
+serverUrl=http://sonarqube.cd.dev.tgs.com
+serverVersion=7.9.6.41879
+dashboardUrl=http://sonarqube.cd.dev.tgs.com/dashboard?id=spring-boot-swagger
+ceTaskId=AZKyHwzDnN74kwHQIB9x
+ceTaskUrl=http://sonarqube.cd.dev.tgs.com/api/ce/task?id=AZKyHwzDnN74kwHQIB9x

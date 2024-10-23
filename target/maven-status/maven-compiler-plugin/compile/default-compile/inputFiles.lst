@@ -1,0 +1,9 @@
+/Users/will/htdocs/go/zadig/examples/spring-boot-demo/src/main/java/com/neo/config/SwaggerConfig.java
+/Users/will/htdocs/go/zadig/examples/spring-boot-demo/src/main/java/com/neo/model/User.java
+/Users/will/htdocs/go/zadig/examples/spring-boot-demo/src/main/java/com/neo/controller/MessageController.java
+/Users/will/htdocs/go/zadig/examples/spring-boot-demo/src/main/java/com/neo/repository/InMemoryMessageRepository.java
+/Users/will/htdocs/go/zadig/examples/spring-boot-demo/src/main/java/com/neo/SwaggerApplication.java
+/Users/will/htdocs/go/zadig/examples/spring-boot-demo/src/main/java/com/neo/repository/MessageRepository.java
+/Users/will/htdocs/go/zadig/examples/spring-boot-demo/src/main/java/com/neo/config/BaseResult.java
+/Users/will/htdocs/go/zadig/examples/spring-boot-demo/src/main/java/com/neo/controller/UserController.java
+/Users/will/htdocs/go/zadig/examples/spring-boot-demo/src/main/java/com/neo/model/Message.java
